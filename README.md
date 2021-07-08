@@ -14,3 +14,5 @@ The image processing techniques applied to detect and count the cogs are the fol
 
 ## Results
 The result for the example image is: 35 cogs
+
+![image](https://user-images.githubusercontent.com/64666949/124849485-3ea37700-df75-11eb-9d3e-84a499979994.png)
